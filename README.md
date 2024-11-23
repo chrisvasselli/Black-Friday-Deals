@@ -408,6 +408,14 @@ The ultimate AI social media scheduling tool also open-source!
 
 Native ChatPDF app for Mac.
 
+### 💸 [Nihongo - Japanese dictionary and study tools](https://apps.apple.com/app/apple-store/id881697245?pt=69676&ct=black-friday-24&mt=8) - 50% off lifetime subscription to Nihongo Pro
+
+**Nihongo** is more than just a Japanese dictionary for iPhone and iPad—it’s an essential tool for anyone serious about self-study. With features like integrated flashcards automatically generated from words you look up, whether through text or your camera, it’s designed to streamline your learning experience. It even includes a Safari integration, so you can look up words on webpages without leaving the browser, making it incredibly versatile for learners at any stage.
+
+### 💸 [Nihongo Lessons - Japanese learning app for serious self-studiers](https://itunes.apple.com/app/id1640204242) - 50% off all courses
+
+**Nihongo Lessons**, the sister app to Nihongo, is perfect for those aiming for fluency in Japanese—not just tourists. Built on the renowned Japanese Level Up learning system, the app introduces 10 new words or grammar points daily, all presented in new sentences that only use previously learned content. With professional voice acting and Japanese-language explanations beyond the beginner level, it provides an immersive and structured path to mastering vocabulary and grammar.
+
 <p>&nbsp;</p>
 
 ## 📖 Books
